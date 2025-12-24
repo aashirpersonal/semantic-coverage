@@ -21,7 +21,7 @@ Engineers often don't know:
 
 This tool provides semantic observability by projecting both **Documents** (Knowledge) and **User Queries** (Intent) into a shared latent space (using UMAP). It then uses density-based clustering (HDBSCAN) to identify "Red Zones"—areas of high user density but low document density.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Semantic+Coverage+Dashboard+Visualization)
+![Dashboard Preview](dashboard-preview.png)
 
 ## 🛠️ Tech Stack
 
