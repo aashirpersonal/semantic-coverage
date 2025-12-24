@@ -35,7 +35,7 @@ This tool provides semantic observability by projecting both **Documents** (Know
 ### 1. Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/semantic-coverage.git
+git clone https://github.com/aashirpersonal/semantic-coverage.git
 cd semantic-coverage
 
 # Backend Setup
@@ -92,31 +92,4 @@ MIT
 
 ---
 
-## 🚀 Launch It to GitHub
-
-Now, let's put this live.
-
-### 1. Go to GitHub.com and create a **New Repository**
-
-* **Name:** `semantic-coverage`
-* **Description:** *Automated detection of knowledge gaps and blind spots in RAG vector stores.*
-* **Public:** Yes.
-* **Do NOT** initialize with README (we already have one).
-
-### 2. Push your Code
-
-In your VS Code terminal (root folder):
-
-```bash
-# 1. Add your remote (Replace YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/semantic-coverage.git
-
-# 2. Rename branch to main (best practice)
-git branch -M main
-
-# 3. Push
-git push -u origin main
-```
-
----
 
